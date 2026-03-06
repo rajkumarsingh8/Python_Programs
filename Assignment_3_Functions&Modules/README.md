@@ -32,5 +32,11 @@ Enter a number: 25
 Square root: 5.0
 Logarithm: 3.2188758248682006
 Sine: -0.13235175009777303
+
+
+**How To Run**
+Make sure you have **Python 3.x** installed. Open a terminal in the project directory and run the scripts as shown below.
+- python FactorialUsing_Function.py
+- python MathModuleCalculation.py
  
 
